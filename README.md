@@ -15,8 +15,8 @@
 
 
   ## Tests:
-  ### Run the following commands in your terminal to test this app:
-  ### N/a
+  ### Run the following commands in your terminal to test this app "node index.js".
+  ### https://www.youtube.com/watch?v=xFl0sQGb2WA
 
   ## Questions:
   ### If you have any question, you may contact me at either
